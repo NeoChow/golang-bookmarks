@@ -1,4 +1,6 @@
 # golang-bookmarks
+*:  intermediate
+**: advanced
 
 * [LEARNING GO](https://miek.nl/go/)
 * [Getting started with Golang](http://mindbowser.com/golang-tutorial-first-chapter/)
