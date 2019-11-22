@@ -5,3 +5,5 @@
 [Gophercises](https://gophercises.com/)
 [learn.go.dev](https://learn.go.dev/)
 [gobyexample](https://gobyexample.com/)
+[Connecting to a PostgreSQL](https://www.calhoun.io/connecting-to-a-postgresql-database-with-gos-database-sql-package/)
+[REST API backed by PostgreSQL](https://flaviocopes.com/golang-tutorial-rest-api/)
