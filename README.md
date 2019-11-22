@@ -13,3 +13,5 @@
 [*Go Web Examples](https://gowebexamples.com/)
 [*50 Shades of Go](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/index.html)
 [*A Library of Go Snippets](https://golangcode.com/)
+[*awesome go](https://awesome-go.com/)
+[**Blogs](https://www.ardanlabs.com/categories/go-programing/)
